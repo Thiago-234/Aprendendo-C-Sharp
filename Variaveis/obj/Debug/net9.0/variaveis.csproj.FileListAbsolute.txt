@@ -1,0 +1,28 @@
+C:\Users\Thiago\Documents\Linguagem C#\Variaveis\bin\Debug\net9.0\variaveis.exe
+C:\Users\Thiago\Documents\Linguagem C#\Variaveis\bin\Debug\net9.0\variaveis.deps.json
+C:\Users\Thiago\Documents\Linguagem C#\Variaveis\bin\Debug\net9.0\variaveis.runtimeconfig.json
+C:\Users\Thiago\Documents\Linguagem C#\Variaveis\bin\Debug\net9.0\variaveis.dll
+C:\Users\Thiago\Documents\Linguagem C#\Variaveis\bin\Debug\net9.0\variaveis.pdb
+C:\Users\Thiago\Documents\Linguagem C#\Variaveis\obj\Debug\net9.0\variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Documents\Linguagem C#\Variaveis\obj\Debug\net9.0\variaveis.AssemblyInfoInputs.cache
+C:\Users\Thiago\Documents\Linguagem C#\Variaveis\obj\Debug\net9.0\variaveis.AssemblyInfo.cs
+C:\Users\Thiago\Documents\Linguagem C#\Variaveis\obj\Debug\net9.0\variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Documents\Linguagem C#\Variaveis\obj\Debug\net9.0\variaveis.dll
+C:\Users\Thiago\Documents\Linguagem C#\Variaveis\obj\Debug\net9.0\refint\variaveis.dll
+C:\Users\Thiago\Documents\Linguagem C#\Variaveis\obj\Debug\net9.0\variaveis.pdb
+C:\Users\Thiago\Documents\Linguagem C#\Variaveis\obj\Debug\net9.0\variaveis.genruntimeconfig.cache
+C:\Users\Thiago\Documents\Linguagem C#\Variaveis\obj\Debug\net9.0\ref\variaveis.dll
+C:\Users\Thiago\Documents\.NET\Variaveis\bin\Debug\net9.0\variaveis.exe
+C:\Users\Thiago\Documents\.NET\Variaveis\bin\Debug\net9.0\variaveis.deps.json
+C:\Users\Thiago\Documents\.NET\Variaveis\bin\Debug\net9.0\variaveis.runtimeconfig.json
+C:\Users\Thiago\Documents\.NET\Variaveis\bin\Debug\net9.0\variaveis.dll
+C:\Users\Thiago\Documents\.NET\Variaveis\bin\Debug\net9.0\variaveis.pdb
+C:\Users\Thiago\Documents\.NET\Variaveis\obj\Debug\net9.0\variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Documents\.NET\Variaveis\obj\Debug\net9.0\variaveis.AssemblyInfoInputs.cache
+C:\Users\Thiago\Documents\.NET\Variaveis\obj\Debug\net9.0\variaveis.AssemblyInfo.cs
+C:\Users\Thiago\Documents\.NET\Variaveis\obj\Debug\net9.0\variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Documents\.NET\Variaveis\obj\Debug\net9.0\variaveis.dll
+C:\Users\Thiago\Documents\.NET\Variaveis\obj\Debug\net9.0\refint\variaveis.dll
+C:\Users\Thiago\Documents\.NET\Variaveis\obj\Debug\net9.0\variaveis.pdb
+C:\Users\Thiago\Documents\.NET\Variaveis\obj\Debug\net9.0\variaveis.genruntimeconfig.cache
+C:\Users\Thiago\Documents\.NET\Variaveis\obj\Debug\net9.0\ref\variaveis.dll

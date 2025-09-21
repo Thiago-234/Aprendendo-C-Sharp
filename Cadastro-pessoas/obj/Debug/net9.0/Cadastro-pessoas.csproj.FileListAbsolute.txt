@@ -1,0 +1,15 @@
+C:\Users\Thiago\Documents\.NET\Cadastro-pessoas\bin\Debug\net9.0\Cadastro-pessoas.exe
+C:\Users\Thiago\Documents\.NET\Cadastro-pessoas\bin\Debug\net9.0\Cadastro-pessoas.deps.json
+C:\Users\Thiago\Documents\.NET\Cadastro-pessoas\bin\Debug\net9.0\Cadastro-pessoas.runtimeconfig.json
+C:\Users\Thiago\Documents\.NET\Cadastro-pessoas\bin\Debug\net9.0\Cadastro-pessoas.dll
+C:\Users\Thiago\Documents\.NET\Cadastro-pessoas\bin\Debug\net9.0\Cadastro-pessoas.pdb
+C:\Users\Thiago\Documents\.NET\Cadastro-pessoas\obj\Debug\net9.0\Cadastro-pessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Documents\.NET\Cadastro-pessoas\obj\Debug\net9.0\Cadastro-pessoas.AssemblyInfoInputs.cache
+C:\Users\Thiago\Documents\.NET\Cadastro-pessoas\obj\Debug\net9.0\Cadastro-pessoas.AssemblyInfo.cs
+C:\Users\Thiago\Documents\.NET\Cadastro-pessoas\obj\Debug\net9.0\Cadastro-pessoas.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Documents\.NET\Cadastro-pessoas\obj\Debug\net9.0\Cadastro-pessoas.sourcelink.json
+C:\Users\Thiago\Documents\.NET\Cadastro-pessoas\obj\Debug\net9.0\Cadastro-pessoas.dll
+C:\Users\Thiago\Documents\.NET\Cadastro-pessoas\obj\Debug\net9.0\refint\Cadastro-pessoas.dll
+C:\Users\Thiago\Documents\.NET\Cadastro-pessoas\obj\Debug\net9.0\Cadastro-pessoas.pdb
+C:\Users\Thiago\Documents\.NET\Cadastro-pessoas\obj\Debug\net9.0\Cadastro-pessoas.genruntimeconfig.cache
+C:\Users\Thiago\Documents\.NET\Cadastro-pessoas\obj\Debug\net9.0\ref\Cadastro-pessoas.dll

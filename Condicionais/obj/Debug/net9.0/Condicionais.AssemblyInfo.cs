@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Condicionais")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25af65bccd24153c333c9871e4b79a93bce5a65a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Condicionais")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Condicionais")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
